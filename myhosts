@@ -7,7 +7,7 @@
 
 
 
-
 [mywebserver:vars]
 myjavaonubuntu= default-jdk
 mywebserver= apache2
+myubuntutree= tree
