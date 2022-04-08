@@ -8,5 +8,5 @@
 
 
 
-[mywebserver_vars]
+[mywebserver:vars]
 mywebserveronubuntu= apache2
