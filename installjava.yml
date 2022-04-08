@@ -4,5 +4,5 @@
   tasks: 
   - name: i want to install java
     apt: 
-     name: default-jdk
+     name: "{{myjavaonubuntu}}"
      state: present 

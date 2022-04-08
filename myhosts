@@ -10,3 +10,4 @@
 
 [mywebserver:vars]
 mywebserveronubuntu= apache2
+myjavaonubuntu= default-jdk
