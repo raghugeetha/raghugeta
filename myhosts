@@ -1,2 +1,12 @@
 [mywebserver]
 172.31.27.3
+[applicationserver]
+
+
+
+
+
+
+
+[mywebserver_vars]
+mywebserveronubuntu=apache2
