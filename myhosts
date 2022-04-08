@@ -9,4 +9,4 @@
 
 
 [mywebserver_vars]
-mywebserveronubuntu=apache2
+mywebserveronubuntu= apache2
