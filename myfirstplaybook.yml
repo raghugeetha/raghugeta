@@ -1,8 +1,12 @@
 ---
-- hosts: mywebserver
-  become: yes
-  tasks: 
+- hosts: all
+  tasks:
   - name: i want to install tree
     apt: 
-     name: "{{myubuntutree}}"
-     state: present
+      name: tree
+      state: present
+
+  - name: i want to install wget
+    apt:
+      name: wget
+      state: present
